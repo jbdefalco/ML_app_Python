@@ -9,6 +9,7 @@ Access this Binder by clicking the blue badge above or at the following URL:
 https://mybinder.org/v2/gh/jbdefalco/ML_app_Python/main
 
 Code for exercise created by Jason Brownlee and found here: 
+
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 
 ## Notes
