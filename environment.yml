@@ -18,4 +18,3 @@ dependencies:
   - r-plotly
   - r-stringr
   - scipy
-  - sklearn
