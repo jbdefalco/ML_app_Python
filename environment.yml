@@ -17,3 +17,5 @@ dependencies:
   - r-tidyverse
   - r-plotly
   - r-stringr
+  - scipy
+  - sklearn
